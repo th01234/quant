@@ -1,6 +1,6 @@
 # quant ideas
 
-Quant is a comprehensive Python toolkit designed for quantitative analysis and strategy development on Bitcoin price data.
+Stratefy_final is a comprehensive Python toolkit designed for quantitative analysis and strategy development on Bitcoin price data.
 
 ## Workflow Overview
 
@@ -33,4 +33,4 @@ Quant is a comprehensive Python toolkit designed for quantitative analysis and s
    - Summarize backtest results.
 
 The modular design enables rigorous research and systematic Bitcoin trading strategy development.
-"""
+
